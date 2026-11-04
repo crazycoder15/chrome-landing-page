@@ -1,0 +1,21 @@
+.toplink
+{
+padding: 10px;
+color: #1f1f1f;
+font-family: arial, sans-serif;
+cursor: pointer;
+font-size: 14px;
+}
+.btn
+{
+    padding: 5px;
+    
+}
+
+.lang
+{
+    text-decoration: none;
+    padding: 3px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+}
